@@ -6,7 +6,9 @@ Python Lottery software
 <li> This Program run on both Windows and Linux operating system by using pycharm, anaconda 3 or all other python editor with the python version 3.x  </li>
 <li> Used tkinter module for the Graphical User Interface </li>
 <li> It works randomly for selecting the winner </li>
+<li> Winner selection process is mobile number based, because it is unique </li>
 <li> Stored the information for each registered </li>
+<li> Always record the user name and mobile number </li>
 <li> Only the admin can see the list of registered by login username and password as ‘admin’ </li>
 </ul>
 
